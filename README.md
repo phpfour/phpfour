@@ -30,6 +30,9 @@ I am **Mohammad Emran Hasan**, a seasoned software developer with 15+ years expe
 ![Mohammad Emran's GitHub stats](https://github-readme-stats-phpfour.vercel.app/api?username=phpfour&show_icons=true&count_private=true) 
 ![Mohammad Emran's Top Langs](https://github-readme-stats-phpfour.vercel.app/api/top-langs/?username=phpfour&layout=compact)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **phpfour/phpfour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
